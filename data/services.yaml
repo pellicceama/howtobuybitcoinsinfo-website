@@ -56,6 +56,26 @@ Coinimal:
   content: Buy and sell Bitcoins for USD or EUR with payment cards or via bank transfers easily. Get into Bitcoin Trading on the worldwide Bitcoin Exchange.
   coins: [btc, ltc, doge, drk, nmc, ixc, pot, anc, mec, wdc, ftc, dgb, usde, myr, aur, anc, ghs]
 
+Coinfloor:
+  uniquename: Coinfloor
+  label: Coinfloor - Bitcoin with confidence!
+  countries: [be, cy, dk, ee, fi, de, gr, ie, it, lv, mt, nl, pl, pt, sk, es, se, gb]
+  icon: https://www.coinfloor.co.uk/favicon.ico
+  url: https://www.coinfloor.co.uk/
+  content: |
+    <p>Buy bitcoins at <a href="https://www.coinfloor.co.uk/market">Coinfloor Market</a> within minutes in a secure environment.</p>
+    <p><a href="https://www.coinfloor.co.uk/market">Coinfloor Market</a> combines the power of a centralised exchange with the flexibility of a decentralised broker network.</p>
+    <p>Trade bitcoins at <a href="https://www.coinfloor.co.uk/exchange">Coinfloor Exchange</a>, the largest and most liquid UK bitcoin exchange.</p> 
+    <p><strong>Why <a href="https://www.coinfloor.co.uk/market">Coinfloor</a>?</strong></p>
+    <ul>
+      <li>The first provably solvent bitcoin company</li>
+      <li>City of London based Bitcoin marketplace</li>
+      <li>Your bitcoin are secured in 100% multi-signature cold storage</li>
+      <li>We work with the UK's top bitcoin brokers who are committed to maintaining a transparent and fair market</li>
+    </ul>
+  coins: [btc]
+  location: [gb]
+
 bitcoinxromania:
  label: Bitcoin X Romania
  countries: [ro] 
