@@ -58,14 +58,14 @@ Coinimal:
 
 Coinfloor:
   uniquename: Coinfloor
-  label: Coinfloor - Bitcoin with confidence!
+  label: Coinfloor - Bitcoin with confidence
   countries: [be, cy, dk, ee, fi, de, gr, ie, it, lv, mt, nl, pl, pt, sk, es, se, gb]
   icon: https://www.coinfloor.co.uk/favicon.ico
   url: https://www.coinfloor.co.uk/
   content: |
     <p>Buy bitcoins at <a href="https://www.coinfloor.co.uk/market">Coinfloor Market</a> within minutes in a secure environment.</p>
     <p><a href="https://www.coinfloor.co.uk/market">Coinfloor Market</a> combines the power of a centralised exchange with the flexibility of a decentralised broker network.</p>
-    <p>Trade bitcoins at <a href="https://www.coinfloor.co.uk/exchange">Coinfloor Exchange</a>, the largest and most liquid UK bitcoin exchange.</p> 
+    <p>Trade bitcoins at <a href="https://www.coinfloor.co.uk/exchange">Coinfloor Exchange</a>, the largest and most liquid UK Bitcoin Exchange.</p> 
     <p><strong>Why <a href="https://www.coinfloor.co.uk/market">Coinfloor</a>?</strong></p>
     <ul>
       <li>The first provably solvent bitcoin company</li>
